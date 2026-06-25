@@ -30,6 +30,7 @@ Each simulation follows three stages:
 ├── README.md                                   # Introduction, structure and key findings of the project
 ├── Ayman_Boucheneb_UAL_Undergrad_Thesis.pdf    # Full thesis document submitted to UAL
 ├── AI-Assistance-Log.pdf                       # Log of AI tools used during the project
+├── Link to Educational Videos.odt              # Link to access YouTube playlist of the simulation educational videos
 ├── /Educational-Videos-Slides                  # Presentation slides used in the simulation educational videos
 ├── /Figures-Used-in-the-Project                # Screenshots and diagrams referenced throughout the thesis
 └── /Tables-Used-in-the-Report                  # Tables and data used within the thesis report
